@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/eugeniughelbur/obsidian-second-brain/raw/main/media/banner.png" alt="Eugeniu Ghelbur — AI Automation Engineer" width="100%" />
+  <img src="https://github.com/eugeniughelbur/eugeniughelbur/raw/main/banner.png" alt="Eugeniu Ghelbur — AI Automation Engineer · Building AI agents that ship" width="100%" />
 </p>
 
 <h3 align="center">Building AI agents that ship to production.</h3>
