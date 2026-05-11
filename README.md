@@ -2,7 +2,7 @@
   <img src="https://github.com/eugeniughelbur/eugeniughelbur/raw/main/banner.png" alt="Eugeniu Ghelbur — AI Automation Engineer · Building AI agents that ship" width="100%" />
 </p>
 
-<h3 align="center">Building AI agents that ship to production.</h3>
+<h3 align="center">Building AI automation that ships to production.</h3>
 
 <p align="center">
   <a href="https://theaioperator.io"><img src="https://img.shields.io/badge/Newsletter-The_AI_Operator-042F2E?style=for-the-badge" alt="The AI Operator" /></a>
