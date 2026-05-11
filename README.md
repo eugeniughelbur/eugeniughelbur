@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://theaioperator.io"><img src="https://img.shields.io/badge/Newsletter-The_AI_Operator-042F2E?style=for-the-badge" alt="The AI Operator" /></a>
   <a href="https://x.com/eugeniu_ghelbur"><img src="https://img.shields.io/badge/%40eugeniu__ghelbur-000?style=for-the-badge&logo=x" alt="X" /></a>
-  <a href="https://linkedin.com/in/eugeniu-ghelbur"><img src="https://img.shields.io/badge/eugeniu--ghelbur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/eugeniu-ghelbur"><img src="https://img.shields.io/badge/eugeniu--ghelbur-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 ---
